@@ -22,3 +22,6 @@ clang penghitung_luas_dan_keliling_bangun_datar.c -o penghitung_luas_dan_kelilin
 
 4. Jalankan program:
 ./penghitung_luas_dan_keliling_bangun_datar
+
+## Lisensi
+MIT License
